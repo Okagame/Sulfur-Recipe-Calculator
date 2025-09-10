@@ -1,6 +1,6 @@
 # SHINY FOOD TING!  
 
-<img width="340" height="340" alt="SkripsShinyThings" src="https://github.com/user-attachments/assets/d866e703-8778-418b-86be-c127677e1d0d" />  
+<img width="340" height="340" alt="FoodTing" src="https://raw.githubusercontent.com/Okagame/Sulfur-Recipe-Calculator/refs/heads/main/SkripsShinyFoodThing.png" />  
 
 *Hey hey!*  
 This is a recipe calculator for the SULFUR game wiki (**NOT OFFICIAL** I'm just a random stranger of the internet)  
