@@ -4,7 +4,7 @@
 
 *Hey hey!*  
 This is a recipe calculator for the SULFUR game wiki (**NOT OFFICIAL** I'm just a random stranger of the internet)  
-It was made because I was tired of manually checking what new recipes I could craft with all my ingredients. ~~`hording issues`~~  
+It was made because I was tired of manually checking what new recipes I could craft with all my ingredients. ~~`hoarding issues`~~  
 
 
 
@@ -20,7 +20,7 @@ Game-style tooltips and UI that actually looks nice
 - **How to use:**  
 Install a userscript manager (I use Violentmonkey on Firefox)  
 Install the script from GreasyFork or copy paste it from anywhere else.   
-But I'll be updating the one on GreasyFork (and here) with changes if something catchs on fire  
+But I'll be updating the one on GreasyFork (and here) with changes if something catches on fire  
 **RESTART YOUR BROWSER** (important, especially Chrome users!) Just let go of Chrome, you deserve better!  
 Go to sulfur.wiki.gg and look for the "Recipe Calculator" button on the top right of the page  
 
