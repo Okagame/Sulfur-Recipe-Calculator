@@ -52,7 +52,8 @@ If you're a dev and you don't want this tool, just let me know and it will myste
 Do you want to modify this? Take it and tell your friends you made it? Go ahead! It's free to use for everyone and anyone!  
 Found a bug? Damn, have you tried turning it off and on? Open an issue and I'll fix it... eventually, one day, probably, maybe  
 
-- **Links:**  
+- **Links:**
+  - [ViolentMonkey](https://violentmonkey.github.io/)
   - [Greasyfork Script](https://greasyfork.org/en/scripts/549037-sulfur-recipe-calculator-v4-0-1)  
   - [SULFUR wiki](https://sulfur.wiki.gg/)
   - [SULFUR Game](https://store.steampowered.com/app/2124120/SULFUR/)
