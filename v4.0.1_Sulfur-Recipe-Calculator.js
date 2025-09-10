@@ -11,6 +11,7 @@
  @resource     sulfCoin httpssulfur.wiki.ggimagesthumbdd6Currency_SulfCoin.png20px-Currency_SulfCoin.png
  @resource     heartEmpty httpssulfur.wiki.ggimagesthumbdd9Heart.png200px-Heart.png386bf0
  @resource     heartFull httpssulfur.wiki.ggimagesthumb009Cultist_Heart.png200px-Cultist_Heart.pnge49de6
+ @license      MIT
  ==UserScript==
 
 (function() {
@@ -4722,4 +4723,5 @@ ${JSON.stringify(data, null, 2)}`;
         }
     `);
           that's it! I would like to thank Deepseek senpai for helping me with this project and teaching me some stuff along the way. This code is free for anyone and everyone to use and change. Steal it and say its yours! We're on your pc so it's yours to do whatever you want with it!
+
 })();
