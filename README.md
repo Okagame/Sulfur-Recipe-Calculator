@@ -55,6 +55,7 @@ Found a bug? Damn, have you tried turning it off and on? Open an issue and I'll 
 - **Links:**  
   - [ViolentMonkey](https://violentmonkey.github.io/)  
   - [Greasyfork Script](https://greasyfork.org/en/scripts/549037-sulfur-recipe-calculator-v4-0-1)  
-  - [GitHub](https://github.com/Okagame/Sulfur-Recipe-Calculator)  
+  - [GitHub](https://github.com/Okagame/Sulfur-Recipe-Calculator)
+  - [Gitee](https://gitee.com/Okagame/Sulfur-Recipe-Calculator)
   - [SULFUR wiki](https://sulfur.wiki.gg/)
   - [SULFUR Game](https://store.steampowered.com/app/2124120/SULFUR/)
