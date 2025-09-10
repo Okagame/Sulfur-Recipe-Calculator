@@ -12,6 +12,7 @@
 // @resource     heartEmpty https://sulfur.wiki.gg/images/thumb/d/d9/Heart.png/200px-Heart.png?386bf0
 // @resource     heartFull https://sulfur.wiki.gg/images/thumb/0/09/Cultist_Heart.png/200px-Cultist_Heart.png?e49de6
 // @license      MIT
+//testing sync
 // ==/UserScript==
 
 (function() {
@@ -4723,4 +4724,5 @@ ${JSON.stringify(data, null, 2)}`;
         }
     `);
          // that's it! I would like to thank Deepseek senpai for helping me with this project and teaching me some stuff along the way. This code is free for anyone and everyone to use and change. Steal it and say its yours! We're on your pc so it's yours to do whatever you want with it!
+
 })();
